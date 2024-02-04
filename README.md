@@ -5,3 +5,6 @@ Basado en el deseño de:
 https://github.com/BartoszJarocki/cv
 
 Edita el archivo "cv.json" para crear tu propio CV imprimible.
+
+pnpm install
+pnpm run dev
