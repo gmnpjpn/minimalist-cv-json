@@ -6,7 +6,7 @@
       "email": "germanpajareropino@gmail.com",
       "phone": "662 91 38 24",
       "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "Me gusta definirme como un entusiasta de la tecnología y el desarrollo, estoy cursando un grado en ingeniería informática y aprendiendo diferentes tecnologías de forma autodidacta.",
       "location": {
         "address": "Calle San Juan de Dios, 19",
         "postalCode": "45600",
@@ -32,7 +32,7 @@
       "url": "https://www.uclm.es/",
       "startDate": "2022-01-01",
       "endDate": "2023-12-31",
-      "summary": "Trabajé como becario en biblioteca y vicerrectorado de coordinación, comunicación y promoción.",
+      "summary": "Becario en Biblioteca Universitaria y Vicerrectorado.",
       "highlights": [
         "Started the company"
       ]
@@ -80,22 +80,16 @@
       "summary": "Description…"
     }],
     "skills": [{
-      "name": "Desarrollo Web",
-      "level": "Aprendiendo",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "name": "Inglés"
     },
     {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ]
+      "name": "MySQL"
+    },
+    {
+      "name": "JAVA"
+    },
+    {
+      "name": "C"
     }],
     "languages": [{
       "language": "Español",
@@ -117,39 +111,37 @@
       "isActive": true,
       "description": "CV minimalista online e imprimible, facilmente editable desde un archivo JSON.",
       "highlights": [
-        "Astro",
-        "Optimized data query speeds by 47%"
+        "Astro"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/gmnpjpn/minimalist-cv-json"
     },
     {
-      "name": "Project 2",
+      "name": "Snake (Java)",
       "isActive": false,
-      "description": "Description...",
+      "description": "Juego snake en java con interfaz gráfica.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Optimized data query speeds by 47%"
+        "Java",
+        "Swing"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/gmnpjpn/Snake-Game_JAVA"
     },
     {
-      "name": "Project",
-      "isActive": true,
-      "description": "Description...",
+      "name": "Tetris (Python)",
+      "isActive": false,
+      "description": "Juego tetris en python.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Optimized data query speeds by 47%"
+        "Python"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/gmnpjpn/TetrisPython"
     },
     {
-      "name": "Project",
-      "isActive": true,
-      "description": "Description...",
+      "name": "Calculadora (Python)",
+      "isActive": false,
+      "description": "Calculadora básica en python.",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Optimized data query speeds by 47%"
+        "Python",
+        "Tkinter"
       ],
-      "url": "https://project.com/"
+      "url": "https://github.com/gmnpjpn/BasicCalculatorPython"
     }]
   }
