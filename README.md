@@ -1,18 +1,7 @@
-Schema del JSON de CV:
-https://jsonresume.org/schema/
-
-Basado en el deseño de:
-https://github.com/BartoszJarocki/cv
-
-Edita el archivo "cv.json" para crear tu propio CV imprimible.
-
-pnpm install
-pnpm run dev
-
-
 # CV Minimalista con JSON
 
 _CV minimalista WEB (e imprimible) editable mediante un archivo .json_
+_Modifica los campos del archivo JSON para editar el contenido del CV._
 
 ### Pre-requisitos 📋
 
