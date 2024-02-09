@@ -16,7 +16,7 @@ _Clona el repositorio:_
 git clone https://github.com/gmnpjpn/minimalist-cv-json.git
 ```
 
-_Dentro de la carpeta del poryecto, instala las dependencias:_
+_Dentro de la carpeta del proyecto, instala las dependencias:_
 ```
 pnpm install
 ```
@@ -31,7 +31,7 @@ pnpm run dev
 * [Node.JS](https://nodejs.org/en) - Entorno de ejecución para JavaScript
 * [Astro](https://astro.build/) - Framework web
 * [PNPM](https://pnpm.io/es/) - Manejador de paquetes
-* [squema JSON](https://jsonresume.org/schema/)
+* [Esquema JSON](https://jsonresume.org/schema/)
 
 ## Autoría ✒️
 
