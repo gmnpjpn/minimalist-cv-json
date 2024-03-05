@@ -37,6 +37,7 @@ pnpm run dev
 
 * _Proyecto original de [**Bartosz Jarocki**](https://github.com/BartoszJarocki/cv)_
 * _Modificación de [**Miguel Ángel Durán**](https://github.com/midudev/minimalist-portfolio-json)_
+* Adaptado por mí.
 
 ## Licencia 📄
 
